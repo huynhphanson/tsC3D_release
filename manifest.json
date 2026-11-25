@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "publishedAt": "2026-11-25",
+  "changelog": "Google Live Basemap và streetview 1.0.2",
+  "net48Url": "https://github.com/huynhphanson/tsC3D_release/raw/main/packages/tsC3D.Shared.net48.dll",
+  "net48Sha256": "2f097ff351b02c8541d9f3c627f872c18c675aafd1fd00faa13bfe82a41fb644",
+  "net80Url": "https://github.com/huynhphanson/tsC3D_release/raw/main/packages/tsC3D.Shared.net80.dll",
+  "net80Sha256": "eb4bb89b2f3fbcdf7e34e966141848bfc513d8051a64a963059640630b714190",
+  "redirectManifestUrl": "",
+  "enabledModules": [ "Basemap" ]
+}
