@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "publishedAt": "2026-11-25",
+  "changelog": "Google Live Basemap & Hệ tọa độ 34 tỉnh/thành VN-2000.",
+  "net48Url": "https://github.com/huynhphanson/tsC3D_release/raw/main/packages/tsC3D.Shared.net48.dll",
+  "net48Sha256": "8fbfb715865ffc8bf41df5bc9b4c05de664aedd0aba436cc11a5700e6250a90a",
+  "net80Url": "",
+  "net80Sha256": "",
+  "redirectManifestUrl": "",
+  "enabledModules": [ "Basemap" ]
+}
