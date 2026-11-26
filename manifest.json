@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "publishedAt": "2026-11-26",
+  "changelog": "Bổ sung bộ update",
+  "net48Url": "https://github.com/huynhphanson/tsC3D_release/raw/main/packages/tsC3D.Shared.net48.dll",
+  "net48Sha256": "3eb6d55a9f5af86669ddc918aeda8e9a2a8a9f6f865c146b91025f1262363bf1",
+  "net80Url": "https://github.com/huynhphanson/tsC3D_release/raw/main/packages/tsC3D.Shared.net80.dll",
+  "net80Sha256": "bb8ad91a653a0251c3faf8a17c0b6430dd995306fcff9f1156740228ed4592e4",
+  "redirectManifestUrl": "",
+  "enabledModules": [ "Basemap" ]
+}
