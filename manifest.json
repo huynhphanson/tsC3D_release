@@ -1,0 +1,11 @@
+{
+  "version": "1.1.2",
+  "publishedAt": "2026-11-27",
+  "changelog": "Đóng gói nền bản đồ",
+  "net48Url": "https://github.com/huynhphanson/tsC3D_release/raw/main/packages/tsC3D.Shared.net48.dll",
+  "net48Sha256": "e77980f57938ca404f013e3a942491242a4b732025cf80e37e04271f33029510",
+  "net80Url": "https://github.com/huynhphanson/tsC3D_release/raw/main/packages/tsC3D.Shared.net80.dll",
+  "net80Sha256": "1345a1f24bb857d0a1ae5c72c48141b4621e5ac426f06c6ac126f7aef1369f36",
+  "redirectManifestUrl": "",
+  "enabledModules": [ "Basemap" ]
+}
