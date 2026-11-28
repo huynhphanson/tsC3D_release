@@ -1,0 +1,11 @@
+{
+  "version": "1.1.5",
+  "publishedAt": "2026-11-28",
+  "changelog": "Fix lỗi cập nhật phiên bản bị cache",
+  "net48Url": "https://raw.githubusercontent.com/huynhphanson/tsC3D_release/v1.1.5/packages/tsC3D.Shared.net48.dll",
+  "net48Sha256": "a29f98cad3a45cf4614d26eb73242667d07e78e1a55cb029fe6ea2ba1dbeee9b",
+  "net80Url": "https://raw.githubusercontent.com/huynhphanson/tsC3D_release/v1.1.5/packages/tsC3D.Shared.net80.dll",
+  "net80Sha256": "65ade2b9c2c46d1ac70e83002d26a926030b6bd3707693f32db38c99ce536642",
+  "redirectManifestUrl": "",
+  "enabledModules": [ "Basemap" ]
+}
